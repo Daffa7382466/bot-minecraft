@@ -1,9 +1,9 @@
 {
-  "name": "bot-minecraft",
+  "name": "bot-controller",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "controller.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node controller.js"
   },
   "dependencies": {
     "mineflayer": "^4.11.0",
